@@ -41,6 +41,15 @@ description:
   yAxis="mbps"
 />
 
+<PlotlyLineChart
+  data={{
+    url: 'barbados.csv'
+  }}
+  title="Barbados"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
 ## South America
 
 <PlotlyLineChart

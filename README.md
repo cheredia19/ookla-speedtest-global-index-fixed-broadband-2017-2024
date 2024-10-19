@@ -140,6 +140,15 @@ description:
   yAxis="mbps"
 />
 
+<PlotlyLineChart
+  data={{
+    url: 'trinidad_tobago.csv'
+  }}
+  title="Trinidad and Tobago"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
 ## South America
 
 <PlotlyLineChart

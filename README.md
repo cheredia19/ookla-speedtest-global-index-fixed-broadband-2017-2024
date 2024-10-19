@@ -77,6 +77,15 @@ description:
   yAxis="mbps"
 />
 
+<PlotlyLineChart
+  data={{
+    url: 'grenada.csv'
+  }}
+  title="Grenada"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
 ## South America
 
 <PlotlyLineChart

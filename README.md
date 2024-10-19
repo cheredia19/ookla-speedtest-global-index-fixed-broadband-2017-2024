@@ -223,6 +223,53 @@ description:
   yAxis="mbps"
 />
 
+## Central Asia
+
+<PlotlyLineChart
+  data={{
+    url: 'kazahstan.csv'
+  }}
+  title="Kazahstan"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'kyrgyzstan.csv'
+  }}
+  title="Kyrgyzstan"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'tajikistan.csv'
+  }}
+  title="Tajikistan"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'turkmenistan.csv'
+  }}
+  title="Turkmenistan"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'uzbekistan.csv'
+  }}
+  title="Uzbekistan"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
 ## South America
 
 <PlotlyLineChart

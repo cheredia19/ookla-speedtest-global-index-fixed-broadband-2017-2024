@@ -11,7 +11,7 @@ description:
 />
 
 
-<PlotlyLineChart
+<PlotlyBarChart
   data={{
     url: 'venezuela.csv'
   }}

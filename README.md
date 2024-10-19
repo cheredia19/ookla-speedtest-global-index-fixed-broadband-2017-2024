@@ -30,6 +30,17 @@ description:
   yAxis="mbps"
 />
 
+## Caribbean
+
+<PlotlyLineChart
+  data={{
+    url: 'antigua_barbuda.csv'
+  }}
+  title="Antigua and Barbuda"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
 ## South America
 
 <PlotlyLineChart

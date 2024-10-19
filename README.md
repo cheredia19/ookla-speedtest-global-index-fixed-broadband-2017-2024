@@ -50,6 +50,15 @@ description:
   yAxis="mbps"
 />
 
+<PlotlyLineChart
+  data={{
+    url: 'cuba.csv'
+  }}
+  title="Cuba"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
 ## South America
 
 <PlotlyLineChart

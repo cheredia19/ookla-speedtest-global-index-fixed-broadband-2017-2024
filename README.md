@@ -68,6 +68,15 @@ description:
   yAxis="mbps"
 />
 
+<PlotlyLineChart
+  data={{
+    url: 'dominican_republic.csv'
+  }}
+  title="Dominican Republic"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
 ## South America
 
 <PlotlyLineChart

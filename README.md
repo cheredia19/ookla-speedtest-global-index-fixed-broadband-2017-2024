@@ -14,6 +14,15 @@ description:
 
 <PlotlyLineChart
   data={{
+    url: 'colombia.csv'
+  }}
+  title="Colombia"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
     url: 'ecuador.csv'
   }}
   title="Ecuador"

@@ -5,7 +5,7 @@ description:
 
 <FlatUiTable
   data={{
-    url: 'fb_17_24.csv'
+    url: 'fb_historic.csv'
   }}
   uniqueId={1}
 />

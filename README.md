@@ -13,7 +13,7 @@ description:
 
 <PlotlyBarChart
   data={{
-    url: 'venezuela.csv'
+    url: 'venezuela_rb.csv'
   }}
   title="Venezuela"
   xAxis="year"

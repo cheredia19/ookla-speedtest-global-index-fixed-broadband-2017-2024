@@ -10,6 +10,16 @@ description:
   uniqueId={1}
 />
 
+## South America
+
+<PlotlyLineChart
+  data={{
+    url: 'uruguay.csv'
+  }}
+  title="Uruguay"
+  xAxis="year"
+  yAxis="mbps"
+/>
 
 <PlotlyLineChart
   data={{

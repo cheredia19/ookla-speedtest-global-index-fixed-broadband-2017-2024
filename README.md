@@ -9,3 +9,13 @@ description:
   }}
   uniqueId={1}
 />
+
+
+<PlotlyLineChart
+  data={{
+    url: 'venezuela.csv'
+  }}
+  title="Venezuela"
+  xAxis="year"
+  yAxis="mbps"
+/>

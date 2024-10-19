@@ -10,6 +10,17 @@ description:
   uniqueId={1}
 />
 
+## Australia and New Zealand
+
+<PlotlyLineChart
+  data={{
+    url: 'australia.csv'
+  }}
+  title="Australia"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
 ## South America
 
 <PlotlyLineChart

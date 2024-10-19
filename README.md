@@ -43,6 +43,15 @@ description:
 
 <PlotlyLineChart
   data={{
+    url: 'bahamas.csv'
+  }}
+  title="Bahamas"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
     url: 'barbados.csv'
   }}
   title="Barbados"
@@ -100,6 +109,33 @@ description:
     url: 'jamaica.csv'
   }}
   title="Jamaica"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'saint_kitts_nevis.csv'
+  }}
+  title="Saint Kitts and Nevis"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'saint_lucia.csv'
+  }}
+  title="Saint Lucia"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'saint_vincent_grenadines.csv'
+  }}
+  title="Saint Vincent and the Grenadines"
   xAxis="year"
   yAxis="mbps"
 />

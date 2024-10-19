@@ -227,9 +227,9 @@ description:
 
 <PlotlyLineChart
   data={{
-    url: 'kazahstan.csv'
+    url: 'kazakhstan.csv'
   }}
-  title="Kazahstan"
+  title="Kazakhstan"
   xAxis="year"
   yAxis="mbps"
 />

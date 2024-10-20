@@ -595,6 +595,62 @@ description:
   yAxis="mbps"
 />
 
+## Middle Africa
+
+<PlotlyLineChart
+  data={{
+    url: 'angola.csv'
+  }}
+  title="Angola"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'cameroon.csv'
+  }}
+  title="Cameroon"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'congo.csv'
+  }}
+  title="Congo"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'Democratic Republic of the Congo.csv'
+  }}
+  title="dr_congo"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'equatorial_guinea.csv'
+  }}
+  title="Equatorial Guinea"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'Gabon.csv'
+  }}
+  title="gabon"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
 ## South America
 
 <PlotlyLineChart

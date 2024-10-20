@@ -626,9 +626,9 @@ description:
 
 <PlotlyLineChart
   data={{
-    url: 'Democratic Republic of the Congo.csv'
+    url: 'dr_congo.csv'
   }}
-  title="dr_congo"
+  title="Democratic Republic of the Congo"
   xAxis="year"
   yAxis="mbps"
 />
@@ -644,9 +644,9 @@ description:
 
 <PlotlyLineChart
   data={{
-    url: 'Gabon.csv'
+    url: 'gabon.csv'
   }}
-  title="gabon"
+  title="Gabon"
   xAxis="year"
   yAxis="mbps"
 />

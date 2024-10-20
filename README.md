@@ -650,6 +650,62 @@ description:
   yAxis="mbps"
 />
 
+## Northern Africa
+
+<PlotlyLineChart
+  data={{
+    url: 'algeria.csv'
+  }}
+  title="Algeria"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'egypt.csv'
+  }}
+  title="Egypt"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'libya.csv'
+  }}
+  title="Libya"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'morocco.csv'
+  }}
+  title="Morocco"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'sudan.csv'
+  }}
+  title="Sudan"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'tunisia.csv'
+  }}
+  title="Tunisia"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
 ## South America
 
 <PlotlyLineChart

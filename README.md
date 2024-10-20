@@ -1098,6 +1098,51 @@ description:
 
 <PlotlyLineChart
   data={{
+    url: 'afghanistan.csv'
+  }}
+  title="Afghanistan"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'bangladesh.csv'
+  }}
+  title="Bangladesh"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'bhutan.csv'
+  }}
+  title="Bhutan"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'india.csv'
+  }}
+  title="India"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'iran.csv'
+  }}
+  title="Iran"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
     url: 'maldives.csv'
   }}
   title="Maldives"

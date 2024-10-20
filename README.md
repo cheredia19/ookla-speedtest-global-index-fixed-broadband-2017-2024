@@ -407,6 +407,71 @@ description:
   yAxis="mbps"
 />
 
+## Eastern Asia
+
+<PlotlyLineChart
+  data={{
+    url: 'china.csv'
+  }}
+  title="China"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'hong_kong.csv'
+  }}
+  title="Hong Kong (SAR)"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'japan.csv'
+  }}
+  title="Japan"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'macau.csv'
+  }}
+  title="Macau (SAR)"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'mongolia.csv'
+  }}
+  title="Mongolia"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'south_korea.csv'
+  }}
+  title="South Korea"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'taiwan.csv'
+  }}
+  title="Taiwan"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
 ## Eastern Europe
 
 <PlotlyLineChart

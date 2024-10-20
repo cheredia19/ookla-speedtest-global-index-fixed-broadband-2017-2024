@@ -5,9 +5,8 @@ description:
 
 <FlatUiTable
   data={{
-    url: 'fb_historic.csv'
+    url: 'fb_historical.csv'
   }}
-  uniqueId={1}
 />
 
 ## Australia and New Zealand

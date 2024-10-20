@@ -1176,3 +1176,140 @@ description:
   xAxis="year"
   yAxis="mbps"
 />
+
+## Southern Europe
+
+<PlotlyLineChart
+  data={{
+    url: 'albania.csv'
+  }}
+  title="Albania"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'andorra.csv'
+  }}
+  title="Andorra"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'bosnia_herzegovina.csv'
+  }}
+  title="Bosnia and Herzegovina"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'croatia.csv'
+  }}
+  title="Croatia"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'greece.csv'
+  }}
+  title="Greece"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'italy.csv'
+  }}
+  title="Italy"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'kosovo.csv'
+  }}
+  title="Kosovo
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'malta.csv'
+  }}
+  title="Malta"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'montenegro.csv'
+  }}
+  title="Montenegro"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'north_macedonia.csv'
+  }}
+  title="North Macedonia"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'portugal.csv'
+  }}
+  title="Portugal"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'san_marino.csv'
+  }}
+  title="San Marino"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'serbia.csv'
+  }}
+  title="Serbia"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'slovenia.csv'
+  }}
+  title="Slovenia"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'spain.csv'
+  }}
+  title="Spain"
+  xAxis="year"
+  yAxis="mbps"
+/>

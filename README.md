@@ -1237,7 +1237,7 @@ description:
   data={{
     url: 'kosovo.csv'
   }}
-  title="Kosovo
+  title="Kosovo"
   xAxis="year"
   yAxis="mbps"
 />

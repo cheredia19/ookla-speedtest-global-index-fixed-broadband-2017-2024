@@ -927,3 +927,104 @@ description:
   xAxis="year"
   yAxis="mbps"
 />
+
+## South-Eastern Asia
+
+<PlotlyLineChart
+  data={{
+    url: 'brunei.csv'
+  }}
+  title="Brunei"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'cambodia.csv'
+  }}
+  title="Cambodia"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'east_timor.csv'
+  }}
+  title="East Timor"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'indonesia.csv'
+  }}
+  title="Indonesia"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'laos.csv'
+  }}
+  title="Laos"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'malaysia.csv'
+  }}
+  title="Malaysia"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'myanmar.csv'
+  }}
+  title="Myanmar (Burma)"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'philippines.csv'
+  }}
+  title="Philippines"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'singapore.csv'
+  }}
+  title="Singapore"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'thailand.csv'
+  }}
+  title="Thailand"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'vietnam.csv'
+  }}
+  title="Vietnam"
+  xAxis="year"
+  yAxis="mbps"
+/>

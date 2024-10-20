@@ -1028,3 +1028,41 @@ description:
   xAxis="year"
   yAxis="mbps"
 />
+
+## Southern Africa
+
+<PlotlyLineChart
+  data={{
+    url: 'lesotho.csv'
+  }}
+  title="Lesotho"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'namibia.csv'
+  }}
+  title="Namibia"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'south_africa.csv'
+  }}
+  title="South Africa"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'swaziland.csv'
+  }}
+  title="Swaziland"
+  xAxis="year"
+  yAxis="mbps"
+/>

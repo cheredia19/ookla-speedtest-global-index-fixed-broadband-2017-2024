@@ -1066,3 +1066,41 @@ description:
   xAxis="year"
   yAxis="mbps"
 />
+
+## Southern Asia
+
+<PlotlyLineChart
+  data={{
+    url: 'maldives.csv'
+  }}
+  title="Maldives"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'nepal.csv'
+  }}
+  title="Nepal"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'pakistan.csv'
+  }}
+  title="Pakistan"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'sri_lanka.csv'
+  }}
+  title="Sri Lanka"
+  xAxis="year"
+  yAxis="mbps"
+/>

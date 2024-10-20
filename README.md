@@ -407,6 +407,80 @@ description:
   yAxis="mbps"
 />
 
+## Eastern Europe
+
+<PlotlyLineChart
+  data={{
+    url: 'czechia.csv'
+  }}
+  title="Czechia"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'hungary.csv'
+  }}
+  title="Hungary"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'moldova.csv'
+  }}
+  title="Moldova"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'poland.csv'
+  }}
+  title="Poland"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'romania.csv'
+  }}
+  title="Romania"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'russia.csv'
+  }}
+  title="Russia"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'slovakia.csv'
+  }}
+  title="Slovakia"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'ukraine.csv'
+  }}
+  title="Ukraine"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
 ## South America
 
 <PlotlyLineChart

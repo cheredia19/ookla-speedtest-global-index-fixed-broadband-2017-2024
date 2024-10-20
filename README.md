@@ -475,6 +475,24 @@ description:
 
 <PlotlyLineChart
   data={{
+    url: 'belarus.csv'
+  }}
+  title="Belarus"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'bulgaria.csv'
+  }}
+  title="Bulgaria"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
     url: 'czechia.csv'
   }}
   title="Czechia"

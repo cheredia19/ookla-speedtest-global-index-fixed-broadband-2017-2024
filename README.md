@@ -706,6 +706,26 @@ description:
   yAxis="mbps"
 />
 
+## Northern America
+
+<PlotlyLineChart
+  data={{
+    url: 'canada.csv'
+  }}
+  title="Canada"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'united_states.csv'
+  }}
+  title="United States"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
 ## South America
 
 <PlotlyLineChart

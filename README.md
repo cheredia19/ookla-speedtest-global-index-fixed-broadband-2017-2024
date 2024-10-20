@@ -584,6 +584,17 @@ description:
   yAxis="mbps"
 />
 
+## Micronesia
+
+<PlotlyLineChart
+  data={{
+    url: 'micronesia.csv'
+  }}
+  title="Micronesia"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
 ## South America
 
 <PlotlyLineChart

@@ -546,6 +546,44 @@ description:
   yAxis="mbps"
 />
 
+## Melanesia
+
+<PlotlyLineChart
+  data={{
+    url: 'fiji.csv'
+  }}
+  title="Fiji"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'papua_new_guinea.csv'
+  }}
+  title="Papua New Guinea"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'vanuatu.csv'
+  }}
+  title="Vanuatu"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'western_sahara.csv'
+  }}
+  title="Western Sahara"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
 ## South America
 
 <PlotlyLineChart

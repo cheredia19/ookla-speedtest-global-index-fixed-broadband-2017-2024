@@ -726,6 +726,98 @@ description:
   yAxis="mbps"
 />
 
+## Northern Europe
+
+<PlotlyLineChart
+  data={{
+    url: 'denmark.csv'
+  }}
+  title="Denmark"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'estonia.csv'
+  }}
+  title="Estonia"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'finland.csv'
+  }}
+  title="Finland"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'iceland.csv'
+  }}
+  title="Iceland"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'ireland.csv'
+  }}
+  title="Ireland"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'latvia.csv'
+  }}
+  title="Latvia"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'lithuania.csv'
+  }}
+  title="Lithuania"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'norway.csv'
+  }}
+  title="Norway"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'sweden.csv'
+  }}
+  title="Sweden"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'united_kingdom.csv'
+  }}
+  title="United Kingdom"
+  xAxis="year"
+  yAxis="mbps"
+/>
+
 ## South America
 
 <PlotlyLineChart

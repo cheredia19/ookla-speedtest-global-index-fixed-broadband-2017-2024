@@ -5,7 +5,7 @@ description:
 
 <FlatUiTable
   data={{
-    url: 'ookla_broadband.csv'
+    url: 'fb_historical.csv'
   }}
 />
 

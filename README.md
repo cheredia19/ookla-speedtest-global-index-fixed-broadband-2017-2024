@@ -9,17 +9,6 @@ description:
   }}
 />
 
-## Micronesia
-
-<PlotlyLineChart
-  data={{
-    url: 'micronesia.csv'
-  }}
-  title="Micronesia"
-  xAxis="year"
-  yAxis="mbps"
-/>
-
 ## Middle Africa
 
 <PlotlyLineChart

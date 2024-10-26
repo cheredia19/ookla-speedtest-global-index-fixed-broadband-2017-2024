@@ -9,52 +9,6 @@ description:
   }}
 />
 
-## Central Asia
-
-<PlotlyLineChart
-  data={{
-    url: 'kazakhstan.csv'
-  }}
-  title="Kazakhstan"
-  xAxis="year"
-  yAxis="mbps"
-/>
-
-<PlotlyLineChart
-  data={{
-    url: 'kyrgyzstan.csv'
-  }}
-  title="Kyrgyzstan"
-  xAxis="year"
-  yAxis="mbps"
-/>
-
-<PlotlyLineChart
-  data={{
-    url: 'tajikistan.csv'
-  }}
-  title="Tajikistan"
-  xAxis="year"
-  yAxis="mbps"
-/>
-
-<PlotlyLineChart
-  data={{
-    url: 'turkmenistan.csv'
-  }}
-  title="Turkmenistan"
-  xAxis="year"
-  yAxis="mbps"
-/>
-
-<PlotlyLineChart
-  data={{
-    url: 'uzbekistan.csv'
-  }}
-  title="Uzbekistan"
-  xAxis="year"
-  yAxis="mbps"
-/>
 
 ## Eastern Africa
 

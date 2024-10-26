@@ -9,26 +9,6 @@ description:
   }}
 />
 
-## Australia and New Zealand
-
-<PlotlyLineChart
-  data={{
-    url: 'australia.csv'
-  }}
-  title="Australia"
-  xAxis="year"
-  yAxis="mbps"
-/>
-
-<PlotlyLineChart
-  data={{
-    url: 'new_zealand.csv'
-  }}
-  title="New Zealand"
-  xAxis="year"
-  yAxis="mbps"
-/>
-
 ## Caribbean
 
 <PlotlyLineChart

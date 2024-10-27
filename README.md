@@ -47,48 +47,48 @@ description:
 
 ## Links
 
-- [Ookla SGI fixed broadband 2017-24 (general insights)](https://datahub.io/@cheredia19/ookla-speedtest-global-index-fixed-broadband-2017-2024)
+- [Ookla SGI fixed broadband 2017-24 (general insights)](https://datahub.io/@cheredia19/ookla-sgi-broadband-2017-2024)
 
 - [Australia and New Zealand](https://datahub.io/@cheredia19/ookla-sgi-broadband-2017-24-aus-nz)
 
-- [Caribbean](https://datahub.io/@cheredia19/ookla-speedtest-global-index-fixed-broadband-2017-2024-cb)
+- [Caribbean](https://datahub.io/@cheredia19/ookla-sgi-broadband-2017-24-cb)
 
-- [Central America](https://datahub.io/@cheredia19/ookla-speedtest-global-index-fixed-broadband-2017-2024-cent-am)
+- [Central America](https://datahub.io/@cheredia19/ookla-sgi-broadband-2017-24-cent-am)
 
-- [Central Asia](https://datahub.io/@cheredia19/ookla-speedtest-global-index-fixed-broadband-2017-2024-cent-as)
+- [Central Asia](https://datahub.io/@cheredia19/ookla-sgi-broadband-2017-24-cent-as)
 
-- [Eastern Africa](https://datahub.io/@cheredia19/ookla-speedtest-global-index-fixed-broadband-2017-2024-east-af)
+- [Eastern Africa](https://datahub.io/@cheredia19/ookla-sgi-broadband-2017-24-east-af)
 
-- [Eastern Asia](https://datahub.io/@cheredia19/ookla-speedtest-global-index-fixed-broadband-2017-2024-east-as)
+- [Eastern Asia](https://datahub.io/@cheredia19/ookla-sgi-broadband-2017-24-east-as)
 
-- [Eastern Europe](https://datahub.io/@cheredia19/ookla-speedtest-global-index-fixed-broadband-2017-2024-east-eu)
+- [Eastern Europe](https://datahub.io/@cheredia19/ookla-sgi-broadband-2017-24-east-eu)
 
-- [Micronesia](https://datahub.io/@cheredia19/ookla-speedtest-global-index-fixed-broadband-2017-2024-mcn)
+- [Micronesia](https://datahub.io/@cheredia19/ookla-sgi-broadband-2017-24-mcn)
 
-- [Middle Africa](https://datahub.io/@cheredia19/ookla-speedtest-global-index-fixed-broadband-2017-2024-mid-af)
+- [Middle Africa](https://datahub.io/@cheredia19/ookla-sgi-broadband-2017-24-mid-af)
 
-- [Melanesia](https://datahub.io/@cheredia19/ookla-speedtest-global-index-fixed-broadband-2017-2024-mln)
+- [Melanesia](https://datahub.io/@cheredia19/ookla-sgi-broadband-2017-24-mln)
 
-- [Northern Africa](https://datahub.io/@cheredia19/ookla-speedtest-global-index-fixed-broadband-2017-2024-nor-af)
+- [Northern Africa](https://datahub.io/@cheredia19/ookla-sgi-broadband-2017-24-nor-af)
 
-- [Northern America](https://datahub.io/@cheredia19/ookla-speedtest-global-index-fixed-broadband-2017-2024-nor-am)
+- [Northern America](https://datahub.io/@cheredia19/ookla-sgi-broadband-2017-24-nor-am)
 
-- [Northern Europe](https://datahub.io/@cheredia19/ookla-speedtest-global-index-fixed-broadband-2017-2024-nor-eu)
+- [Northern Europe](https://datahub.io/@cheredia19/ookla-sgi-broadband-2017-24-nor-eu)
 
-- [South-Eastern Asia](https://datahub.io/@cheredia19/ookla-speedtest-global-index-fixed-broadband-2017-2024-se-as)
+- [South-Eastern Asia](https://datahub.io/@cheredia19/ookla-sgi-broadband-2017-24-se-as)
 
-- [Southern Africa](https://datahub.io/@cheredia19/ookla-speedtest-global-index-fixed-broadband-2017-2024-sou-af)
+- [Southern Africa](https://datahub.io/@cheredia19/ookla-sgi-broadband-2017-24-sou-af)
 
-- [South America](https://datahub.io/@cheredia19/ookla-speedtest-global-index-fixed-broadband-2017-2024-sou-am)
+- [South America](https://datahub.io/@cheredia19/ookla-sgi-broadband-2017-24-sou-am)
 
-- [Southern Asia](https://datahub.io/@cheredia19/ookla-speedtest-global-index-fixed-broadband-2017-2024-sou-as)
+- [Southern Asia](https://datahub.io/@cheredia19/ookla-sgi-broadband-2017-24-sou-as)
 
-- [Southern Europe](https://datahub.io/@cheredia19/ookla-speedtest-global-index-fixed-broadband-2017-2024-sou-eu)
+- [Southern Europe](https://datahub.io/@cheredia19/ookla-sgi-broadband-2017-24-sou-eu)
 
-- [Western Asia](https://datahub.io/@cheredia19/ookla-speedtest-global-index-fixed-broadband-2017-2024-west-as)
+- [Western Asia](https://datahub.io/@cheredia19/ookla-sgi-broadband-2017-24-west-as)
 
-- [Western Africa](https://datahub.io/@cheredia19/ookla-speedtest-global-index-fixed-broadband-2017-2024-west-af)
+- [Western Africa](https://datahub.io/@cheredia19/ookla-sgi-broadband-2017-24-west-af)
 
-- [Western Europe](https://datahub.io/@cheredia19/ookla-speedtest-global-index-fixed-broadband-2017-2024-west-eu)
+- [Western Europe](https://datahub.io/@cheredia19/ookla-sgi-broadband-2017-24-west-eu)
 
 - [Ookla Speedtest Global Index Insights](https://datahub.io/@cheredia19/ookla-speedtest-global-index-insights)

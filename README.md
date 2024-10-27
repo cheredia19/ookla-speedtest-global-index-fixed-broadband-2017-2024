@@ -7,7 +7,7 @@ description:
 
 In this rapidly evolving digital world, the Internet has become an essential part of our lives, powering everything from work and education to healthcare, entertainment, and social interactions. 
 
-As we approach[International Internet Day](https://knowledgeflow.org/event/international-internet-day-2024/) on October 29, this is an ideal moment to reflect on how this transformative technology has reshaped society and continues to be a driving force behind innovation, connectivity, and access to information. 
+As we approach [International Internet Day](https://knowledgeflow.org/event/international-internet-day-2024/) on October 29, this is an ideal moment to reflect on how this transformative technology has reshaped society and continues to be a driving force behind innovation, connectivity, and access to information. 
 
 From streamlining communication across continents to enabling real-time access to vast knowledge resources, the Internet is a cornerstone of modern life, impacting individuals and industries. 
 

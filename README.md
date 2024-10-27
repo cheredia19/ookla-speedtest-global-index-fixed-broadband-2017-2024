@@ -9,11 +9,19 @@ description:
   }}
 />
 
+## Percentage change between the most recent and the oldest reported mbps speed by country
+
+<FlatUiTable
+  data={{
+    url: 'change_2017_24.csv'
+  }}
+/> 
+
 <PlotlyBarChart
   data={{
     url: 'change_2017_24.csv'
   }}
-  title=""
+  title="Percentage change"
   xAxis="country"
   yAxis="change_2017_24"
 />

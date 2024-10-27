@@ -25,6 +25,12 @@ The table below shows a snapshot of the countries' Internet speeds from 2017 to 
 
 ## Percentage change between the most recent and the oldest reported Mbps speed by country
 
+According to the numbers, the country that has progressed the most is **Venezuela**. The South American outlet was the world's worst-ranked by September 2017 (3.42 Mbps). However, its Internet download speed has improved 1,648.8 %. In August 2024, Venezuela ranked 90th  (61.95 Mbps), thanks to the recent investment from optical fiber private ISPs. 
+
+Apart from Venezuela, eight States (four from Latin America and the Caribbean) improved their download velocity by more than 1,000 percent: **Egypt**, neighbors **Colombia**, **Kuwait**, **Paraguay**, **Costa Rica**, **Uzbekistan**, **United Arab Emirates**, and **Peru**.
+
+Nineteen countries have lower Internet speeds than in 2017 or 2018, the majority from Asia and Africa.
+
 <FlatUiTable
   data={{
     url: 'change_2017_24.csv'

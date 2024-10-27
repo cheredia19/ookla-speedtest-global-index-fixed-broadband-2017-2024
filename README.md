@@ -8,3 +8,12 @@ description:
     url: 'fb_historical.csv'
   }}
 />
+
+<PlotlyBarChart
+  data={{
+    url: 'change_2017_24.csv'
+  }}
+  title=""
+  xAxis="country"
+  yAxis="change_2017_24"
+/>

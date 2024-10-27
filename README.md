@@ -75,8 +75,6 @@ The download Internet velocity progress of only 32 countries (fifteen from Latin
 
 In the links below are the download speeds of the countries that belong to each of the 21 regions defined by the UN and other interesting insights:
 
-- [Ookla SGI fixed broadband 2017-24 (general insights)](https://datahub.io/@cheredia19/ookla-sgi-broadband-2017-2024)
-
 - [Australia and New Zealand](https://datahub.io/@cheredia19/ookla-sgi-broadband-2017-24-aus-nz)
 
 - [Caribbean](https://datahub.io/@cheredia19/ookla-sgi-broadband-2017-24-cb)

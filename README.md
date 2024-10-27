@@ -11,7 +11,7 @@ As we approach [International Internet Day](https://knowledgeflow.org/event/inte
 
 From streamlining communication across continents to enabling real-time access to vast knowledge resources, the Internet is a cornerstone of modern life, impacting individuals and industries. 
 
-Under that premise, at **DataHub team** we analyzed the evolution of countries in terms of their connection speed, based on data from almost 200 countries that Ookla has collected since 2017 with its **Speedtest Global Index**.
+Under that premise, at **DataHub** we analyzed the evolution of countries in terms of their connection speed, based on data from almost 200 countries that Ookla has collected since 2017 with its **Speedtest Global Index**.
 
 Of 183 countries, **the Internet speed of 164 nations in 2024 is better than in 2017**, some with **remarkable upgrades**. In other words, 90% improved their download velocity during that span.
 

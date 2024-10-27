@@ -48,6 +48,12 @@ Nineteen countries have lower Internet speeds than in 2017 or 2018, the majority
 
 ## Percentage change between the 2021-22 reported Mbps speed by country
 
+But something happened, arguably thanks to the impact of the [COVID-19](https://www.mayoclinic.org/diseases-conditions/coronavirus/symptoms-causes/syc-20479963) pandemic. One hundred and forty-seven out of 179 countries (82.12%) **decreased their download Internet speed in 2022 compared to 2021**. 
+
+It's remarkably evident when looking at each country's timeline.
+
+The download Internet velocity progress of only 32 countries (fifteen from Latin America and the Caribbean, nine from Africa, and eight from Asia) was not interrupted.
+
 <FlatUiTable
   data={{
     url: 'change_2021_22.csv'

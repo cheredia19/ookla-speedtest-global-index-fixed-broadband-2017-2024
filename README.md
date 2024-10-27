@@ -5,6 +5,18 @@ description:
 
 > **DISCLAIMER:** This report is intended just for exploring the DataHub platform functionalities, **not** for any commercial use. All the data used in this note is property of Ookla, LLC.
 
+In this rapidly evolving digital world, the Internet has become an essential part of our lives, powering everything from work and education to healthcare, entertainment, and social interactions. 
+
+As we approach[International Internet Day](https://knowledgeflow.org/event/international-internet-day-2024/) on October 29, this is an ideal moment to reflect on how this transformative technology has reshaped society and continues to be a driving force behind innovation, connectivity, and access to information. 
+
+From streamlining communication across continents to enabling real-time access to vast knowledge resources, the Internet is a cornerstone of modern life, impacting individuals and industries. 
+
+Under that premise, at **DataHub team** we analyzed the evolution of countries in terms of their connection speed, based on data from almost 200 countries that Ookla has collected since 2017 with its **Speedtest Global Index**.
+
+Of 183 countries, **the Internet speed of 164 nations in 2024 is better than in 2017**, some with **remarkable upgrades**. In other words, 90% improved their download velocity during that span.
+
+The table below shows a snapshot of the countries' Internet speeds from 2017 to 2024, taken every August. Users can filter data by major areas (continents), regions (based on the [United Nations definition of regions](https://population.un.org/wpp/DefinitionOfRegions/)), and the mentioned speeds in Mbps since 2017. 
+
 <FlatUiTable
   data={{
     url: 'fb_historical.csv'

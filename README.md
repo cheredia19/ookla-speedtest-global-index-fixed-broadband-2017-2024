@@ -49,7 +49,7 @@ description:
 
 - [Ookla SGI fixed broadband 2017-24 (general insights)](https://datahub.io/@cheredia19/ookla-speedtest-global-index-fixed-broadband-2017-2024)
 
-- [Australia and New Zealand](https://datahub.io/@cheredia19/ookla-speedtest-global-index-fixed-broadband-2017-2024-aus-nz)
+- [Australia and New Zealand](https://datahub.io/@cheredia19/ookla-sgi-broadband-2017-24-aus-nz)
 
 - [Caribbean](https://datahub.io/@cheredia19/ookla-speedtest-global-index-fixed-broadband-2017-2024-cb)
 

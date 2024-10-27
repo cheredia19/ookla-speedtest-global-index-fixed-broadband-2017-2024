@@ -1,6 +1,6 @@
 ---
 title: Ookla Speedtest Global Index (2017-2024)
-description: 
+description: Fixed broadband download speeds
 ---
 
 > **DISCLAIMER:** This report is intended just for exploring the DataHub platform functionalities, **not** for any commercial use. All the data used in this note is property of Ookla, LLC.

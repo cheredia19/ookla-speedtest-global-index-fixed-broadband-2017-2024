@@ -9,7 +9,7 @@ description:
   }}
 />
 
-## Percentage change between the most recent and the oldest reported mbps speed by country
+## Percentage change between the most recent and the oldest reported Mbps speed by country
 
 <FlatUiTable
   data={{
@@ -25,3 +25,21 @@ description:
   xAxis="country"
   yAxis="change_2017_24"
 />
+
+## Percentage change between the 2021-22 reported Mbps speed by country
+
+<FlatUiTable
+  data={{
+    url: 'change_2021_22.csv'
+  }}
+/> 
+
+<PlotlyBarChart
+  data={{
+    url: 'change_2021_22.csv'
+  }}
+  title="Percentage change"
+  xAxis="country"
+  yAxis="change_2021_22"
+/>
+
